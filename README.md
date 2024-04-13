@@ -5,7 +5,7 @@
 ### SKKU 2020~
 
 # Studying~
-### C, C++, Python, Cuda, OpenGL
+### C, C++, Python
 
 <!--
 **hoeo159/hoeo159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
